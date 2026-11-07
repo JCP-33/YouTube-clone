@@ -59,3 +59,15 @@
   padding-bottom: 2px;
   border-bottom: 3px solid red;
 }
+
+/* 
+
+  MEDIA TAGS
+
+*/
+
+@media (max-width:900px) {
+  .sidebar {
+    display: none;
+  }
+}
