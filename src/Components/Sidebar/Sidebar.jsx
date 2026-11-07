@@ -69,7 +69,7 @@ const Sidebar = ({sidebar, category, setCategory}) => {
         </div>
         <div className="side-links">
           <img src={tom} alt="" />
-          <p>SomeOrdinaryGamer</p>
+          <p>GreatStack</p>
         </div>
         <div className="side-links">
           <img src={megan} alt="" />
